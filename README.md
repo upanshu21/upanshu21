@@ -2,7 +2,7 @@
 
 Debugging code and life!
 
-  - Currently I am working on **Blockchain**, **smart contracts**, **java** and **springboot**.
+  - Currently I am working on **JAVA**, **springboot**, **Kafka**, **mongoDB**, **AWS**.
   - I seem to know about some programming languages like `scala`, `JavaScript`, `python , java`.
   
  
