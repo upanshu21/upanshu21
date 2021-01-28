@@ -3,7 +3,7 @@
 Debugging code and life!
 
   - Currently I am working on **JAVA**, **springboot**, **Kafka**, **mongoDB**, **AWS**.
-  - I seem to know about some programming languages like `scala`, `JavaScript`, `python , java`.
+  - Languages I work with: `scala`, `Java`, `JavaScript`, `python`.
   
  
   📩 &nbsp; Feel free to contact me. I will try my best to help you!
