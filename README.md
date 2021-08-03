@@ -2,8 +2,8 @@
 
 Debugging code and life!
 
-  - Currently I am working on **JAVA**, **springboot**, **Kafka**, **mongoDB**, **AWS**.
-  - Languages I work with: `scala`, `Java`, `JavaScript`, `python`.
+  - Currently I am working on **JAVA**, **springboot**, **Kafka**, **mongoDB**, **GCP**, **K8S**.
+  - Languages I work with: `scala`, `Java`, `python`.
   - [Dzone core member](https://dzone.com/users/4314439/upanshu-chaudhary.html)
  
   📩 &nbsp; Feel free to contact me. I will try my best to help you!
