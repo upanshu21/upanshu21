@@ -11,5 +11,4 @@ Debugging code and life!
   
   &nbsp; &nbsp; &nbsp; &nbsp;[![LinkedIn](https://raw.githubusercontent.com/upanshu21/upanshu21/master/linkedin-icon.png)](https://in.linkedin.com/in/upanshu-chaudhary-b03422187)
 
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username={upanshu21}&theme={dark}" alt="LeetCode Badges"/>
- 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={upanshu21}&animated=true" alt="LeetCode Badges"/> 
